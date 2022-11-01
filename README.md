@@ -7,7 +7,6 @@
 - Languages-C/C++, JavaScript, Python ,Shell Scripting
 - Backend- Django
 - Tools- WireShark
-- 
 <!---
 Shyamsai30/Shyamsai30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
