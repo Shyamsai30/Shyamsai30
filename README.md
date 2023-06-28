@@ -4,8 +4,8 @@
 - 🌱 I love solving coding questions in leetcode and give contests in Codechef.
 - 📫 How to reach me ...https://www.linkedin.com/in/shyam-sai-ganesh-9b680320a/ 
 - My Technical Skills:
-- Languages-C/C++, JavaScript, Python ,Shell Scripting
-- Backend- Django
+- Languages-C/C++, JavaScript, Python ,Shell Scripting,SQL
+- Tech Stack and Frameworks- React.js,Node.js,Express.js,Django,MongoDB
 - Tools- WireShark
 <!---
 Shyamsai30/Shyamsai30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
